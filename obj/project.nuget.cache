@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVSdM29qvJA/8T6zrvspSkIiLcHblN+vrzJdF0MOG4A7wLfVnnsFjwsGzxLsAHPFs2wag/k4P2YDtL7IYpdnvw==",
+  "success": true,
+  "projectFilePath": "D:\\SpecflowProjectdotnet\\SpecflowProjectdotnet\\SpecflowProjectdotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specflow\\3.9.8\\specflow.3.9.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.5\\specflow.plus.livingdocplugin.3.9.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.8\\specflow.tools.msbuild.generation.3.9.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specrun.runner\\3.9.7\\specrun.runner.3.9.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specrun.specflow\\3.9.7\\specrun.specflow.3.9.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\specrun.specflow.3-9-0\\3.9.7\\specrun.specflow.3-9-0.3.9.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\webdriver.chromedriver.win32\\90.0.4430.24\\webdriver.chromedriver.win32.90.0.4430.24.nupkg.sha512"
+  ],
+  "logs": []
+}
